@@ -1,6 +1,6 @@
 <h1>👋 Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Hung, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323319.png" width="15"/> <b>Ho Chi Minh City, Viet Nam</b>. </p>
+<p>I'm Hung, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/323/323319.png" width="15"/> <b>Ho Chi Minh City, Viet Nam</b>. </p>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -19,7 +19,6 @@
 - ⚡ &nbsp;What wake me up at 5AM: helping other people
 
 ### My Opensource Story
-All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
 - [Solana Payment plugin for Magento](https://github.com/phuhung273/solpay-js) - It's name says it all. Support checkout with Solana wallet on Magento.
 - (Future) NodeJS Lesson plan - Just a collection of NodeJS intermediate articles like `Don't block the event loop`, `Streaming API progress` or `How many way to download file from NodeJS server` that I always introduce to newcomer
 
