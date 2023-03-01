@@ -16,14 +16,18 @@
 ### About me
 - 🔭 &nbsp;I’m currently working on NodeJS
 - 🌱 &nbsp;I’m currently learning Go and Solana
-- ⚡ &nbsp;What wake me up at 5AM: helping other people
+- ⚡ &nbsp;What wake you up at 5AM: your living purpose
 
 ### My Opensource Story
 - [Solana Payment plugin for Magento](https://github.com/phuhung273/solpay-js) - It's name says it all. Support checkout with Solana wallet on Magento.
-- (Future) NodeJS Lesson plan - Just a collection of NodeJS intermediate articles like `Don't block the event loop`, `Streaming API progress` or `How many way to download file from NodeJS server` that I always introduce to newcomer
+- [Lessons Plans](https://github.com/phuhung273/lesson-plans) A collection of articles that I always introduce to newcomer: 
+  - Design patterns examples
+  - (Upcoming) Nodejs intermediate topics like `Don't block the event loop`, `Streaming API progress` or `How many way to download file from NodeJS server` 
 
 ### Connect with me
 <p>
   <a href="https://stackoverflow.com/users/12280326/hungtran273" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
   <a href="https://github.com/phuhung273" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuhung273&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
